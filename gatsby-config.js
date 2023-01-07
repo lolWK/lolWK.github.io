@@ -3,7 +3,7 @@ module.exports = {
     title: `Ati's devlog`,
     description: `이것저것 정리하는 블로그입니다.`,
     author: `Ati`,
-    siteUrl: 'https://cnblogs.xgqfrms.xyz', // 배포후 변경하기
+    siteUrl: 'https://lolWK.github.io/',
   },
   plugins: [
     {
@@ -42,7 +42,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: '<https://my-website.com/>',
+        siteUrl: 'https://lolWK.github.io/',
         stripQueryString: true,
       },
     },
