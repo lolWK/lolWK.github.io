@@ -79,6 +79,10 @@ const MarkdownRenderer = styled.div`
     background-color: #f0f0f0;
   }
 
+  /* .language-text {
+    padding: 0;
+  } */
+
   // Adjust List Element Style
   ol,
   ul {
@@ -138,7 +142,7 @@ const MarkdownRenderer = styled.div`
   }
 
   .language-text {
-    padding: 1px 4px;
+    padding: 0;
   }
 
   code[class*='language-'],
