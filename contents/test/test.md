@@ -1,17 +1,17 @@
 ---
-date: '2020-07-29'
-title: 'Test'
-categories: ['Web', 'Git', 'Javascript']
-summary: '테스팅중인 요약글 입니다. 테스팅중인 요약글 입니다. 테스팅중인 요약글 입니다.'
-thumbnail: './test.png'
+date: '2023-01-08'
+title: '테스트 글 입니다'
+categories: ['TIL', 'WEB', 'JavaScript', 'CS', '알고리즘', '일상/회고', '기타']
+summary: '테스팅 요약글 입니다.'
+thumbnail: './test.jpg'
 ---
 
-### 1. Test 글
+### Test
 
 테스트
 
 ```
-# dd
+# 테스트
 console.log('test')
 console.log('test')
 ```
