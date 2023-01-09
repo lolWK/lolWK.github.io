@@ -65,7 +65,7 @@ const PostData = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 20px;
+  margin-top: 40px;
   font-size: 18px;
   /* font-weight: 700; */
 
@@ -73,7 +73,7 @@ const PostData = styled.div`
     flex-direction: column;
     align-items: flex-start;
     font-size: 15px;
-    margin-top: 12px;
+    margin-top: 20px;
     font-weight: 400;
     gap: 3px;
   }
