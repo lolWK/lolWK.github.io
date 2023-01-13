@@ -19,6 +19,7 @@ const Background = styled.div`
 `
 
 const Wrapper = styled.div`
+  padding-top: 20px;
   display: flex;
   flex-direction: column;
   justify-content: center;
