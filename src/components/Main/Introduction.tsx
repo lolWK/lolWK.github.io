@@ -7,6 +7,10 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 import { Link } from 'gatsby'
 
+import '@fortawesome/fontawesome-svg-core/styles.css'
+import { config } from '@fortawesome/fontawesome-svg-core'
+config.autoAddCss = false
+
 type IntroductionProps = {
   profileImage: IGatsbyImageData
 }
