@@ -2,6 +2,10 @@ import React, { FunctionComponent } from 'react'
 import styled from '@emotion/styled'
 import { IGatsbyImageData } from 'gatsby-plugin-image'
 import ProfileImage from 'components/Main/ProfileImage'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faGithub } from '@fortawesome/free-brands-svg-icons'
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
+import { Link } from 'gatsby'
 
 type IntroductionProps = {
   profileImage: IGatsbyImageData
@@ -67,6 +71,21 @@ const Title = styled.div`
     font-size: 25px;
   }
 `
+const Icon = styled.div`
+  .icon {
+    font-size: 25px;
+    padding-right: 12px;
+    padding-top: 8px;
+    transition: all 0.5s;
+    @media (max-width: 768px) {
+      font-size: 18px;
+    }
+
+    :hover {
+      transform: rotate(-18deg);
+    }
+  }
+`
 
 const Introduction: FunctionComponent<IntroductionProps> = function ({
   profileImage,
@@ -79,6 +98,14 @@ const Introduction: FunctionComponent<IntroductionProps> = function ({
         <div>
           <SubTitle>만들어버렸다,</SubTitle>
           <Title>Ati's devlog</Title>
+          <Icon>
+            <Link to="https://github.com/lolWK">
+              <FontAwesomeIcon icon={faGithub} className="icon" />
+            </Link>
+            <Link to="mailto:mwk0725@gmail.com">
+              <FontAwesomeIcon icon={faEnvelope} className="icon" />
+            </Link>
+          </Icon>
         </div>
       </Wrapper>
     </Background>
