@@ -129,7 +129,8 @@ const MarkdownRenderer = styled.div`
     border-style: none;
     max-width: 90%;
     box-sizing: content-box;
-    padding: 12px 20px;
+    /* padding: 12px 20px; */
+    margin: 10px auto 30px;
   }
 
   // Adjust Code Style
