@@ -1,7 +1,7 @@
 ---
 date: '2023-01-14'
 title: '블로그 시작해버렸다'
-categories: ['일상/회고']
+categories: ['일상']
 summary: '하루 만에 블로그를 만들어버린 이야기'
 thumbnail: './daily_thumnail.jpg'
 ---
