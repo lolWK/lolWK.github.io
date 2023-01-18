@@ -14,3 +14,7 @@ thumbnail: './article_thm.jpg'
 #### 23/1/17 [4 Habits That Made Me a Better Developer](https://gvdgets.com/4-habits-that-made-me-a-better-developer-39b647903534)
 
 모든 것을 적고, 긍정적인 사고방식, 피드백 수용, 동료와 함께 공유하고 배우기 </br>
+
+#### 23/1/18 [프론트엔드 개발자에게도 알고리즘 공부가 중요할까?](https://wormwlrm.github.io/2022/05/28/Should-a-front-end-developer-learn-the-algorithm.html)
+
+오늘 알고리즘 푸는 날이였어서 제목이 눈에 띄었다. 나도 처음에는 알고리즘 이걸 왜 해야하는가.. 생각이 들어서 아예 안했었는데, 요즘에는 매일 조금씩 해보려고 노력중이다. 잘 풀게 될지는 모르겠지만, 어떠한 상황을 해결하는데에 확실히 알고리즘을 알고 있으면 참고가 많이 될 것 같아서 어떤 알고리즘들이 있는지는 알아놔야겠다고 생각이 들었다. </br>
