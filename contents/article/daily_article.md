@@ -44,3 +44,7 @@ thumbnail: './article_thm.jpg'
 #### 23/1/25 [개발자가 블로그를 운영하면 좋은 점](https://yozm.wishket.com/magazine/detail/1535/)
 
 위의 글처럼 해보고 싶지만서도.. 시간이 정말 많아야하지않을까..</br>
+
+#### 23/1/25 [좋은 개발 스터디를 운영하는 법](https://yozm.wishket.com/magazine/detail/1593/)
+
+앞으로 스터디를 할 일이 많아질 것 같은데 잘 참고해야겠다.</br>
