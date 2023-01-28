@@ -45,6 +45,14 @@ thumbnail: './article_thm.jpg'
 
 위의 글처럼 해보고 싶지만서도.. 시간이 정말 많아야하지않을까..</br>
 
-#### 23/1/25 [좋은 개발 스터디를 운영하는 법](https://yozm.wishket.com/magazine/detail/1593/)
+#### 23/1/26 [좋은 개발 스터디를 운영하는 법](https://yozm.wishket.com/magazine/detail/1593/)
 
 앞으로 스터디를 할 일이 많아질 것 같은데 잘 참고해야겠다.</br>
+
+#### 23/1/27 [5 Reasons To Choose JavaScript Maps Over Objects For Storing Key-Value Pairs(With Examples)](https://dev.to/gustavupp/5-reasons-to-choose-javascript-maps-over-objects-for-storing-key-value-pairswith-examples-39dd)
+
+Map은 잘 사용 안하고 있었는데, 이 글을 통해 Map과 Object의 차이를 알 수 있었다!</br>
+
+#### 23/1/28 [Regex for lazy developers)](https://dev.to/sineni/regex-for-lazy-developers-cg1)
+
+정규식은 특정 패턴을 구분해야할 때 정말 유용한 것 같다. 하지만 규칙들이 너무 많고 어렵다..</br>
