@@ -53,6 +53,20 @@ thumbnail: './article_thm.jpg'
 
 Map은 잘 사용 안하고 있었는데, 이 글을 통해 Map과 Object의 차이를 알 수 있었다!</br>
 
-#### 23/1/28 [Regex for lazy developers)](https://dev.to/sineni/regex-for-lazy-developers-cg1)
+#### 23/1/28 [Regex for lazy developers](https://dev.to/sineni/regex-for-lazy-developers-cg1)
 
 정규식은 특정 패턴을 구분해야할 때 정말 유용한 것 같다. 하지만 규칙들이 너무 많고 어렵다..</br>
+
+#### 23/1/29 휴식
+
+#### 23/1/30 [9 Best Practices for Optimizing Frontend Performance](https://blog.bitsrc.io/9-best-practices-for-optimizing-frontend-loading-time-763211621061)
+
+프론트엔드도 성능 최적화를 신경 써야한다고 생각 하는데, 3가지 뺴고 처음 알게 되는 것들이여서 좋았다. 추후에 꼭 적용해봐야겠다.</br>
+
+#### 23/1/30 [2023년 주목해야 하는 UI/UX 디자인 트렌드](https://yozm.wishket.com/magazine/detail/1853/)
+
+내용 중에 고도화된 마이크로 인터렉션이 제일 눈에 들어왔다.</br>
+
+#### 23/2/1 [JavaScript 101: All About Timers](https://medium.com/bitsrc/javascript-101-all-about-timers-cec07db55b86)
+
+setTimeout, setInterval.. 비동기의 신비함</br>
