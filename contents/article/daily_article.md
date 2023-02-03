@@ -70,3 +70,7 @@ Map은 잘 사용 안하고 있었는데, 이 글을 통해 Map과 Object의 차
 #### 23/2/1 [JavaScript 101: All About Timers](https://medium.com/bitsrc/javascript-101-all-about-timers-cec07db55b86)
 
 setTimeout, setInterval.. 비동기의 신비함</br>
+
+#### 23/2/2 [홈 화면에 웹 바로가기를 추가하기(A2HS)](https://fe-developers.kakaoent.com/2023/230202-a2hs/)
+
+홈 화면에 웹 앱을 설치할 수 있도록 하는 방법에 대해서 처음 알게 됐다. 홈에 설치하게 하는 것도 별도의 설정이 필요하구나..</br>
