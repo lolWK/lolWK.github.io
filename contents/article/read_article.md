@@ -29,3 +29,7 @@ thumbnail: './article_thm1.jpg'
 
 최근에 브라우저의 동작에 대한 학습을 했었는데, 내용이 그중 렌더링 단계에서의 css의 이야기인 것 같아서 읽어봤다. </br> 스타일을 DOM 노드에 적용하는 작업을 스타일 재계산이라고 한다고 한다. 일반적으로 오른쪽에서 왼쪽으로 체크하기 때문에 `.wrapper .section .title .link` 이 선택자가 `.link`보다 브라우저 엔진에게 더 빠르다고 한다. 선택자가 너무 길어져도 가독성이 별로인 것 같아서 일부로 구체적이게 안 쓰는 편이였는데 꼭 그것만이 좋은 것은 아니라는 것을 알게 됐다. 또 선택자 여러 개를 띄어 쓰냐 마냐도 영향이 있다는 것도 알게 되었고, li 엘리먼트 셀렉터를 사용하면 확인할 항목이 늘어난다는 것도 알게 됐다.</br>
 특정 CSS 선택자를 개선하는 것만으로도 성능 향상을 이끌어낼 수 있다는 것이 신기했다. Edge 블로그 글이라 검사하는 법이 Edge로만 나와있었는데 크롬에도 같은 기능이 있는지 확인해 봐야겠다.
+
+#### 23/2/21 [JavaScript Memory Management: How to Avoid Common Memory Leaks and Improve Performance](https://medium.com/itnext/javascript-memory-management-how-to-avoid-common-memory-leaks-and-improve-performance-c018dbbca954)
+
+두달 전만에도 메모리에 대해서 잘 몰랐다. 지금은 메모리 관리를 신경 쓰는 것도 중요하다는 것을 알게 됐다. 항상 그런 부분을 생각하고 만들어야겠다는 생각하게 되었고, 여러가지 방법에 대해서 알 수 있었다. ~~가비지 컬렉터 고마워~~
