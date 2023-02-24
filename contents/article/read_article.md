@@ -33,3 +33,7 @@ thumbnail: './article_thm1.jpg'
 #### 23/2/21 [JavaScript Memory Management: How to Avoid Common Memory Leaks and Improve Performance](https://medium.com/itnext/javascript-memory-management-how-to-avoid-common-memory-leaks-and-improve-performance-c018dbbca954)
 
 두달 전만에도 메모리에 대해서 잘 몰랐다. 지금은 메모리 관리를 신경 쓰는 것도 중요하다는 것을 알게 됐다. 항상 그런 부분을 생각하고 만들어야겠다는 생각하게 되었고, 여러가지 방법에 대해서 알 수 있었다. ~~가비지 컬렉터 고마워~~
+
+#### 23/2/23 [방향성이 명확한 노력으로 나만의 색깔을 가진 사람이 되기](https://evan-moon.github.io/2021/09/10/developer-direction-of-effort/)
+
+실천하고 있는 여러 활동들을 왜 하는지 나이게 어떤 의미가 있는지 항상 생각하면서 더 가치 있게 만들기 👍
