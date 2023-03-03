@@ -42,7 +42,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://lolWK.github.io/',
+        siteUrl: 'https://lolwk.github.io/',
         stripQueryString: true,
       },
     },
