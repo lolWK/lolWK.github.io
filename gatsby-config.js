@@ -3,7 +3,7 @@ module.exports = {
     title: `Ati's devlog`,
     description: `이것저것 정리하는 블로그입니다.`,
     author: `Ati`,
-    siteUrl: 'https://lolWK.github.io/',
+    siteUrl: 'https://lolwk.github.io/',
   },
   plugins: [
     {
