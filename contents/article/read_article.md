@@ -37,3 +37,7 @@ thumbnail: './article_thm1.jpg'
 #### 23/2/23 [방향성이 명확한 노력으로 나만의 색깔을 가진 사람이 되기](https://evan-moon.github.io/2021/09/10/developer-direction-of-effort/)
 
 실천하고 있는 여러 활동들을 왜 하는지 나이게 어떤 의미가 있는지 항상 생각하면서 더 가치 있게 만들기 👍
+
+#### 23/3/7 [문제 원인의 원인을 찾아서](https://toss.tech/article/real-reason)
+
+좋은 해결책을 내기 위해서 해결해야 하는 문제를 한문장으로 적고, 문제에 계속 질문하고 답해보기 🦓
