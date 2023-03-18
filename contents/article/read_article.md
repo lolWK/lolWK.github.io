@@ -41,3 +41,7 @@ thumbnail: './article_thm1.jpg'
 #### 23/3/7 [문제 원인의 원인을 찾아서](https://toss.tech/article/real-reason)
 
 좋은 해결책을 내기 위해서 해결해야 하는 문제를 한문장으로 적고, 문제에 계속 질문하고 답해보기 🦓
+
+#### 23/3/18 [깊은 복사와 얕은 복사에 대한 심도있는 이야기](https://medium.com/watcha/%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%99%80-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%8B%AC%EB%8F%84%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-2f7d797e008a)
+
+`JSON.parse & JSON.stringify`부터 알고 있던 복사의 내용에서 더 새로운 내용을 만날 수 있었던 글. 왜 자바스크립트에 깊은 복사가 없는 지에 대해서도 아래의 답변 링크에서 생각을 알 수 있었고, 깊은 복사를 하기 전에 꼭 필요한 깊은 복사인지 생각해봐야겠다.
