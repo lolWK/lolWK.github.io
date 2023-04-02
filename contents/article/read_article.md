@@ -45,3 +45,11 @@ thumbnail: './article_thm1.jpg'
 #### 23/3/18 [깊은 복사와 얕은 복사에 대한 심도있는 이야기](https://medium.com/watcha/%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%99%80-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%8B%AC%EB%8F%84%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-2f7d797e008a)
 
 `JSON.parse & JSON.stringify`부터 알고 있던 복사의 내용에서 더 새로운 내용을 만날 수 있었던 글. 왜 자바스크립트에 깊은 복사가 없는 지에 대해서도 아래의 답변 링크에서 생각을 알 수 있었고, 깊은 복사를 하기 전에 꼭 필요한 깊은 복사인지 생각해봐야겠다.
+
+#### 23/4/2 [ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)](https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/)
+
+#### 23/4/2 [ChatGPT와 함께 춤을](https://jojoldu.tistory.com/709)
+
+ChatGPT 정말 핫하다. 검색해도 잘 나오지 않는 경우에 자주 사용하게 되는 것 같다.</br>
+생산성이 많이 올라가는 것도 당연하다고 생각하지만.. 아직 취준 중인 나의 입장에서는 조금만 지나면 정말 주니어의 자리가 많이 줄어들지 않을까? 생각이 많이 드는 글들이었다.😲</br>
+지피티에 대체 불가능한 사람이 되도록 노력하자!
